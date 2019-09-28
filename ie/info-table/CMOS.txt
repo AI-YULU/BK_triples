@@ -1,0 +1,4 @@
+中文名$$互补金属氧化物半导体
+外文名$$Complementary Metal Oxide Semiconductor
+简    称$$CMOS
+总    类$$PMOS与NMOS
